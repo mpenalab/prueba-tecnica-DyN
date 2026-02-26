@@ -1,0 +1,12 @@
+# Manipulación y procesamiento de datos
+pandas
+
+# Motor necesario para exportar el reporte a Excel
+openpyxl
+
+# Visualización de datos (Dashboard en el notebook)
+matplotlib
+seaborn
+
+# Seguridad para credenciales
+python-dotenv
